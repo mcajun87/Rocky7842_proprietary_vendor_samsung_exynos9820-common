@@ -1,4 +1,4 @@
-name: Rocky7842_lineage-vendor_samsung_d1x Sync
+name: Rocky7842_proprietary_vendor_samsung_exynos9820-common
 
 permissions:
   contents: write
