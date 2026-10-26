@@ -81,6 +81,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libGLES_mali \
     vulkan.mali \
+    lib_SoundBooster_ver1050 \
     libsecnativefeature \
     libsecril-client \
     libsemnativecarrierfeature \
@@ -106,9 +107,10 @@ PRODUCT_PACKAGES += \
     libkeymaster_helper \
     libqfp_sensortest \
     libril_sem \
-    libsec-ril \
+    libsec-ril-impl \
     libsensorlistener \
     libskeymaster4device \
+    libssl-tm \
     libsynaFpSensorTestNwd \
     libuniapi \
     vendor.samsung.hardware.gnss@2.0 \
